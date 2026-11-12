@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**idk3331/idk3331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 #Hi, i am Katherine Uzhca <3
 #- 🔭 I’m currently working on responsive web pages and interactive interfaces using HTML, CSS, and JavaScript.
